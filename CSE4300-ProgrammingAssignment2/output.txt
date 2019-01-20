@@ -1,0 +1,320 @@
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 1
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 1
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 3 printCount: 1
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 4 printCount: 1
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 2
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 2
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 3 printCount: 2
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 4 printCount: 2
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 3
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 3
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 3 printCount: 3
+Not my turn!
+My turn!
+Thread ID 4 printCount: 3
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 4
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 4
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 3 printCount: 4
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 4 printCount: 4
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 5
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 5
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 3 printCount: 5
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 4 printCount: 5
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 6
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 6
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 3 printCount: 6
+Not my turn!
+My turn!
+Thread ID 4 printCount: 6
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 7
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 7
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 3 printCount: 7
+Not my turn!
+My turn!
+Thread ID 4 printCount: 7
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 8
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 8
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 3 printCount: 8
+Not my turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 4 printCount: 8
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 9
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 9
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 3 printCount: 9
+Not my turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 4 printCount: 9
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 1 printCount: 10
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Thread ID 2 printCount: 10
+Not my turn!
+My turn!
+Thread ID 3 printCount: 10
+Not my turn!
+My turn!
+Thread ID 4 printCount: 10
+Not my turn!
+Thread number 1 printed 'Not my turn!' 25 times
+Thread number 2 printed 'Not my turn!' 26 times
+Thread number 3 printed 'Not my turn!' 27 times
+Thread number 4 printed 'Not my turn!' 27 times
+
+
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+Not my turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+My turn!
+Not my turn!
+Thread number 1 printed 'Not my turn!' 20 times
+Thread number 2 printed 'Not my turn!' 21 times
+Thread number 3 printed 'Not my turn!' 22 times
+Thread number 4 printed 'Not my turn!' 22 times
